@@ -1,4 +1,4 @@
-# Discord Nitro Generator
+# DNG
 Generates discord nitro codes.
 
 ## Information
